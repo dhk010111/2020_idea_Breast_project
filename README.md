@@ -19,7 +19,7 @@
  - seaborn (그래프)
 ### Module
  - train_test_split : 학습 데이터와 테스트 데이터를 분리
- - KFold, cross_val_score : Cross valdiation을 구현
+ - KFold, cross_val_score : Cross validation을 구현
 ### Learning Methods
  - smv
  - LogisticRegression
