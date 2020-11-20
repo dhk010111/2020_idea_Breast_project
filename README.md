@@ -3,13 +3,6 @@
 ## Project Purpose
  - Breast Cancer dataset으로 종양의 양성과 악성을 구분하는 인공지능 모델을 구현
  - 이 프로젝트는 아이디어 실현 부분에서는 체온과 인후염증의 dataset을 통해 결과값을 예측하는데 이용
-
- 
-## Learnging Model
- - 
-
-
- 
  
 ## Dependencies
 ### Training
